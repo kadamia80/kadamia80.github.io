@@ -1,4 +1,3 @@
-<!Doctype html>
 <head>
 	<Meta chartset="UTF-8">
 	<html lang="en">
